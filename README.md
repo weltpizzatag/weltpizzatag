@@ -1,6 +1,6 @@
 ## weltpizzatag
 Gadse. Gadse streicheln. Robbe. Robbe streicheln.
-## Meistgenutzte Sprachen
+<!--## Meistgenutzte Sprachen -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weltpizzatag&layout=compact) -->
 ## Software für dumme Projekte
 
