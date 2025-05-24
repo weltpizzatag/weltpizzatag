@@ -3,7 +3,7 @@ Gadse. Gadse streicheln. Robbe. Robbe streicheln.
 <!--## Meistgenutzte Sprachen -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weltpizzatag&layout=compact) -->
 ## Statistiken
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weltpizzatag&include_orgs=true&layout=compact&theme=tokyonight" alt="Github Profile Summary">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weltpizzatag&include_orgs=true&layout=compact&theme=nord_dark" alt="Github Profile Summary">
 
 ## Genutzte Software
 
